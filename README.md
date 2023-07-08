@@ -1,7 +1,6 @@
 # 정보 Info
 - 이름 Name : 장재원 Jaeone Jang
-- 사용할수 있는 언어 language available : Korean
-- 컴퓨터 Computer : MacBook Air M2
+- 언어 language available : Korean
 
 # 개발 언어 Development Language
 | Name | check | understanding |
