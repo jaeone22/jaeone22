@@ -1,5 +1,4 @@
 # 정보 Info
-- 이름 Name : 장재원 Jaeone Jang
 - 언어 language available : Korean
 
 # 개발 언어 Development Language
