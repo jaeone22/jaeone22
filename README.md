@@ -1,23 +1,15 @@
-# 정보 Info
-- 언어 language available : Korean
-
-# 개발 언어 Development Language
-| Name | check | understanding |
+# 언어
+| 언어 | 체크 | 이만큼 공부함 |
 | --- | --- | ----------- |
-| C# | ✅ | 100/100 |
-| C++ | ❌ | 0/100 |
-| Python | ❌ | 20/100 |
-| Java | ❌ | 0/100 |
-| HTML | ❌ | 10/100 |
-| JS | ❌ | 0/100 |
-| CSS | ❌ | 0/100 |
+| C# | ✅ | - |
+| HTML | ✅ | - |
+| JS | ❌ | 20/100 |
+| CSS | ✅ | - |
 
-# 링크 Link
-- 유튜브 Youtube : [만들기의 숲 Forest of making](https://www.youtube.com/@fom_)
-- 사이트 Site : [Site Link](https://sites.google.com/view/errorwebsites)
+# 링크
+- 유튜브 : [만들기의 숲 Forest of making](https://www.youtube.com/@fom_)
+- 사이트 : [사이트로 가기](https://sites.google.com/view/errorwebsites)
 
-# 스토어 링크 Store Link
-- Google Play : [Google Play Link](https://play.google.com/store/apps/dev?id=6394503389498681645)
-
-# 후원 Support
-- **buymeacoffee** : [☺️감사합니다! thank you!](https://www.buymeacoffee.com/goup.fom)
+# 스토어
+- goUP AppStore : [goUP AppStore 정보로 가기](https://goup.ggm.kr/download.html)
+- Google Play : [Google Play 프로필로 가기](https://play.google.com/store/apps/dev?id=6394503389498681645)
