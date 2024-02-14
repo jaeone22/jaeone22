@@ -1,15 +1,25 @@
-# 언어
-| 언어 | 체크 | 이만큼 공부함 |
-| --- | --- | ----------- |
-| C# | ✅ | - |
-| HTML | ✅ | - |
-| JS | ❌ | 20/100 |
-| CSS | ✅ | - |
+<h2 align="center"><b>🛠️ Language 🛠️</b></h2>
+</br>
+<p align="center">
+<a href=""><img src="https://img.shields.io/badge/C Sharp-purple?style=for-the-badge&logo=csharp&logoColor=white"/></a>
+<a href=""><img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+<a href=""><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+<a href=""><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+<a href=""><img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"></a>
+<a href=""><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 
-# 링크
-- 유튜브 : [만들기의 숲 Forest of making](https://www.youtube.com/@fom_)
-- 사이트 : [사이트로 가기](https://sites.google.com/view/errorwebsites)
 
-# 스토어
-- goUP AppStore : [goUP AppStore 정보로 가기](https://goup.ggm.kr/download.html)
-- Google Play : [Google Play 프로필로 가기](https://play.google.com/store/apps/dev?id=6394503389498681645)
+<h2 align="center"><b>🔗 Link 🔗</b></h2>
+</br>
+<p align="center">
+<a href="https://www.youtube.com/@fom_"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white"/></a>
+<a href="https://www.instagram.com/error1022_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://discord.gg/DSYxfPRxrA"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/></a>
+<a href="https://t.me/goup_app"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="mailto:goup-app@proton.me"><img src="https://img.shields.io/badge/Proton Mail-6D4AFF?style=for-the-badge&logo=Proton Mail&logoColor=white"/></a>
+
+<h2 align="center"><b>😀 Support 😀</b></h2>
+</br>
+<p align="center">
+<a href="https://goup.ggm.kr/spt.html"><img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=Bitcoin&logoColor=white"/></a>
+<a href="https://www.buymeacoffee.com/goup.fom"><img src="https://img.shields.io/badge/buymeacoffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=white"/></a>
