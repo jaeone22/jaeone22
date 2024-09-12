@@ -17,9 +17,3 @@
 <a href="https://discord.gg/DSYxfPRxrA"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/></a>
 <a href="https://t.me/goup_app"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 <a href="mailto:goup-app@proton.me"><img src="https://img.shields.io/badge/Proton Mail-6D4AFF?style=for-the-badge&logo=Proton Mail&logoColor=white"/></a>
-
-<h2 align="center"><b>😀 Support 😀</b></h2>
-</br>
-<p align="center">
-<a href="https://goup.ggm.kr/spt.html"><img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=Bitcoin&logoColor=white"/></a>
-<a href="https://www.buymeacoffee.com/goup.fom"><img src="https://img.shields.io/badge/buymeacoffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=white"/></a>
