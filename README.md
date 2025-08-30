@@ -1,7 +1,6 @@
 <h2 align="center"><b>🗺️ Projects</b></h2><p align="center">
 <a href="https://goup.im"><img src="https://img.shields.io/badge/goUP-1E90FF?style=for-the-badge"/></a>
-<a href="https://stater.goup.im"><img src="https://img.shields.io/badge/PrivateStater-1E90FF?style=for-the-badge"/></a>
-<a href="https://makport.goup.im"><img src="https://img.shields.io/badge/Makport-1E90FF?style=for-the-badge"/></a>
+<a href="https://privatestater.com"><img src="https://img.shields.io/badge/PrivateStater-1E90FF?style=for-the-badge"/></a>
 
 <br><h2 align="center"><b>💬 Contact</b></h2><p align="center">
 <a href="https://t.me/jaeone1022"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
